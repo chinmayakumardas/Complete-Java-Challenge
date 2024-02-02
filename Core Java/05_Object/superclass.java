@@ -1,5 +1,5 @@
 import java.util.*;
-class A{
+abstract class A{
    int a=5;
 }
 class  B extends A{
@@ -17,6 +17,7 @@ public static void main(String[]args)
 Scanner sc=new Scanner(System.in);
     B b1=new B();
     b1.show();
-
+A a1=new A();//cant initialize the instace of abstract class
+System.out.println(a1.a);
 }
 }
