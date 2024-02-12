@@ -6,7 +6,7 @@ class class2 extends class1{
      String Address="BBSr";
 }
 class class3 extends class2{
-    int Age=22;
+    int Age=22;//
 }
 public class Inheritance 
 {
