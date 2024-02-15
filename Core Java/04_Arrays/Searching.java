@@ -39,5 +39,25 @@ for(int i=0;i<num.length;i++){
 //    }
 // } 
 
+//binary search
+int number[]={1,44,7,3,8,6,11,0,15};
+System.out.println("Binary search ===============================");
+
+System.out.println("enter key");
+int key=sc.nextInt();
+for(int i=0;i<number.length;i++){
+   int start=0,end=number.length-1;
+   while(start<=end){
+      int mid=start+end/2;
+      if(number[mid]==key)
+      System.out.println("key found  at index "+ mid);
+      else if(number[mid]>key){
+         end=mid-1;
+
+      }else{
+         start=mid+1;
+      }
+   }
+}
 }
 }

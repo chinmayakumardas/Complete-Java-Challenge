@@ -1,147 +1,154 @@
 {
-    // Use IntelliSense to learn about possible attributes.
-    // Hover to view descriptions of existing attributes.
-    // For more information, visit: https://go.microsoft.com/fwlink/?linkid=830387
-    "version": "0.2.0",
-    "configurations": [
-        {
-            "type": "java",
-            "name": "Current File",
-            "request": "launch",
-            "mainClass": "${file}"
-        },
-        {
-            "type": "java",
-            "name": "Inheritance",
-            "request": "launch",
-            "mainClass": "Inheritance",
-            "projectName": "Complete-Java-Challenge_e350a919"
-        },
-        {
-            "type": "java",
-            "name": "Opps",
-            "request": "launch",
-            "mainClass": "Opps",
-            "projectName": "Complete-Java-Challenge_e350a919"
-        },
-        {
-            "type": "java",
-            "name": "Practices",
-            "request": "launch",
-            "mainClass": "Practices",
-            "projectName": "Complete-Java-Challenge_e350a919"
-        },
-        {
-            "type": "java",
-            "name": "Searching",
-            "request": "launch",
-            "mainClass": "Searching",
-            "projectName": "Complete-Java-Challenge_e350a919"
-        },
-        {
-            "type": "java",
-            "name": "advptrns",
-            "request": "launch",
-            "mainClass": "advptrns",
-            "projectName": "Complete-Java-Challenge_e350a919"
-        },
-        {
-            "type": "java",
-            "name": "butterfly",
-            "request": "launch",
-            "mainClass": "butterfly",
-            "projectName": "Complete-Java-Challenge_e350a919"
-        },
-        {
-            "type": "java",
-            "name": "charp",
-            "request": "launch",
-            "mainClass": "charp",
-            "projectName": "Complete-Java-Challenge_e350a919"
-        },
-        {
-            "type": "java",
-            "name": "diamond",
-            "request": "launch",
-            "mainClass": "diamond",
-            "projectName": "Complete-Java-Challenge_e350a919"
-        },
-        {
-            "type": "java",
-            "name": "invertedstar",
-            "request": "launch",
-            "mainClass": "invertedstar",
-            "projectName": "Complete-Java-Challenge_e350a919"
-        },
-        {
-            "type": "java",
-            "name": "number_pyramid",
-            "request": "launch",
-            "mainClass": "number_pyramid",
-            "projectName": "Complete-Java-Challenge_e350a919"
-        },
-        {
-            "type": "java",
-            "name": "packages",
-            "request": "launch",
-            "mainClass": "packages",
-            "projectName": "Complete-Java-Challenge_e350a919"
-        },
-        {
-            "type": "java",
-            "name": "practice",
-            "request": "launch",
-            "mainClass": "practice",
-            "projectName": "Complete-Java-Challenge_e350a919"
-        },
-        {
-            "type": "java",
-            "name": "pyramid",
-            "request": "launch",
-            "mainClass": "pyramid",
-            "projectName": "Complete-Java-Challenge_e350a919"
-        },
-        {
-            "type": "java",
-            "name": "rombus",
-            "request": "launch",
-            "mainClass": "rombus",
-            "projectName": "Complete-Java-Challenge_e350a919"
-        },
-        {
-            "type": "java",
-            "name": "simplearr",
-            "request": "launch",
-            "mainClass": "simplearr",
-            "projectName": "Complete-Java-Challenge_e350a919"
-        },
-        {
-            "type": "java",
-            "name": "solidrectangle",
-            "request": "launch",
-            "mainClass": "solidrectangle",
-            "projectName": "Complete-Java-Challenge_e350a919"
-        },
-        {
-            "type": "java",
-            "name": "start",
-            "request": "launch",
-            "mainClass": "start",
-            "projectName": "Complete-Java-Challenge_e350a919"
-        },
-        {
-            "type": "java",
-            "name": "sumarr",
-            "request": "launch",
-            "mainClass": "sumarr",
-            "projectName": "Complete-Java-Challenge_e350a919"
-        },
-        {
-            "type": "java",
-            "name": "test",
-            "request": "launch",
-            "mainClass": "test",
-            "projectName": "Complete-Java-Challenge_e350a919"
-        }
-    ]
+  // Use IntelliSense to learn about possible attributes.
+  // Hover to view descriptions of existing attributes.
+  // For more information, visit: https://go.microsoft.com/fwlink/?linkid=830387
+  "version": "0.2.0",
+  "configurations": [
+    {
+      "type": "java",
+      "name": "Binary_search",
+      "request": "launch",
+      "mainClass": "Binary_search",
+      "projectName": "Complete-Java-Challenge_e350a919"
+    },
+    {
+      "type": "java",
+      "name": "Current File",
+      "request": "launch",
+      "mainClass": "${file}"
+    },
+    {
+      "type": "java",
+      "name": "Inheritance",
+      "request": "launch",
+      "mainClass": "Inheritance",
+      "projectName": "Complete-Java-Challenge_e350a919"
+    },
+    {
+      "type": "java",
+      "name": "Opps",
+      "request": "launch",
+      "mainClass": "Opps",
+      "projectName": "Complete-Java-Challenge_e350a919"
+    },
+    {
+      "type": "java",
+      "name": "Practices",
+      "request": "launch",
+      "mainClass": "Practices",
+      "projectName": "Complete-Java-Challenge_e350a919"
+    },
+    {
+      "type": "java",
+      "name": "Searching",
+      "request": "launch",
+      "mainClass": "Searching",
+      "projectName": "Complete-Java-Challenge_e350a919"
+    },
+    {
+      "type": "java",
+      "name": "advptrns",
+      "request": "launch",
+      "mainClass": "advptrns",
+      "projectName": "Complete-Java-Challenge_e350a919"
+    },
+    {
+      "type": "java",
+      "name": "butterfly",
+      "request": "launch",
+      "mainClass": "butterfly",
+      "projectName": "Complete-Java-Challenge_e350a919"
+    },
+    {
+      "type": "java",
+      "name": "charp",
+      "request": "launch",
+      "mainClass": "charp",
+      "projectName": "Complete-Java-Challenge_e350a919"
+    },
+    {
+      "type": "java",
+      "name": "diamond",
+      "request": "launch",
+      "mainClass": "diamond",
+      "projectName": "Complete-Java-Challenge_e350a919"
+    },
+    {
+      "type": "java",
+      "name": "invertedstar",
+      "request": "launch",
+      "mainClass": "invertedstar",
+      "projectName": "Complete-Java-Challenge_e350a919"
+    },
+    {
+      "type": "java",
+      "name": "number_pyramid",
+      "request": "launch",
+      "mainClass": "number_pyramid",
+      "projectName": "Complete-Java-Challenge_e350a919"
+    },
+    {
+      "type": "java",
+      "name": "packages",
+      "request": "launch",
+      "mainClass": "packages",
+      "projectName": "Complete-Java-Challenge_e350a919"
+    },
+    {
+      "type": "java",
+      "name": "practice",
+      "request": "launch",
+      "mainClass": "practice",
+      "projectName": "Complete-Java-Challenge_e350a919"
+    },
+    {
+      "type": "java",
+      "name": "pyramid",
+      "request": "launch",
+      "mainClass": "pyramid",
+      "projectName": "Complete-Java-Challenge_e350a919"
+    },
+    {
+      "type": "java",
+      "name": "rombus",
+      "request": "launch",
+      "mainClass": "rombus",
+      "projectName": "Complete-Java-Challenge_e350a919"
+    },
+    {
+      "type": "java",
+      "name": "simplearr",
+      "request": "launch",
+      "mainClass": "simplearr",
+      "projectName": "Complete-Java-Challenge_e350a919"
+    },
+    {
+      "type": "java",
+      "name": "solidrectangle",
+      "request": "launch",
+      "mainClass": "solidrectangle",
+      "projectName": "Complete-Java-Challenge_e350a919"
+    },
+    {
+      "type": "java",
+      "name": "start",
+      "request": "launch",
+      "mainClass": "start",
+      "projectName": "Complete-Java-Challenge_e350a919"
+    },
+    {
+      "type": "java",
+      "name": "sumarr",
+      "request": "launch",
+      "mainClass": "sumarr",
+      "projectName": "Complete-Java-Challenge_e350a919"
+    },
+    {
+      "type": "java",
+      "name": "test",
+      "request": "launch",
+      "mainClass": "test",
+      "projectName": "Complete-Java-Challenge_e350a919"
+    }
+  ]
 }
