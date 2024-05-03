@@ -1,7 +1,6 @@
 # Welcome to my complete java challenge
- Here i uplaod all my code that runon java
- enjoy the code ok
- <br>
- This is practice Project for my Learning to Land my Job.
 
- Lets Enjoy and Learn From This Repo
+<h2>Data structure and Algorithm using Java</h2>
+<hr>
+<a href='./Searching'>Searching...</a>
+<a href='./Sorting'>Searching...</a>
